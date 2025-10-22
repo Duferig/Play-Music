@@ -1,0 +1,5 @@
+{
+  "name": "CloudBeat Player",
+  "description": "A self-hosted, shareable music streaming platform. Upload your music folders and create a persistent playlist for everyone to enjoy.",
+  "requestFramePermissions": []
+}
